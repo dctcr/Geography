@@ -145,6 +145,7 @@ src/
   deployCommand.js
   index.js
   quizEngine.js
+.env
 ```
 
 ---
