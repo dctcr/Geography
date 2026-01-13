@@ -26,7 +26,7 @@ Start a quiz using the `/quiz` command and customize your experience step by ste
 - Medium
 - Hard
 - Expert
-- **Mr. Worldwide** 🌐
+- Mr. Worldwide 🌐
 
 Difficulty currently affects question selection and recognizability.
 
@@ -68,7 +68,7 @@ It’s meant to be **fun first**, but genuinely educational.
 
 ### New Quiz Types
 - **Map Quiz** – identify countries based on map highlights
-- **U.S. States Quiz**
+- **U.S. States Quiz** - identify states by map/flag/capital/etc.
 
 ### Dataset Expansion
 - Population
@@ -94,3 +94,65 @@ It’s meant to be **fun first**, but genuinely educational.
 git clone https://github.com/dctcr/Geography.git
 cd Geography
 ```
+
+2. Install Dependencies:
+```bash
+npm install
+```
+
+3. Create a `.env` file in the project root
+```env
+TOKEN=your_discord_bot_token
+CLIENT_ID=your_application_id
+GUILD_ID=your_test_guild_id
+OWNERS=your_id,example_id_2
+```
+> `.env` is required and is intentionally not tracked
+
+---
+
+## 🚀 Running the Bot
+
+1. Deploy Slash Commands
+```bash
+npm src/deployCommand.js
+```
+
+2. Start the Bot
+```bash
+npm src/index.js
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+  commands/
+     general/
+        quiz.js
+      utility/
+         ping.js
+  config/
+     colors.json
+     countries.json
+     emojis.json
+  events/
+     clientReady.js
+     interactionCreate.js
+  flags/
+  deployCommand.js
+  index.js
+  quizEngine.js
+```
+
+---
+
+## 🧪 Notes
+Some emojis currently aren't supported through this installation method, if you are using this version of the Bot and want emojis, I recommend editing the `emojis.json` file to include your own personal emojis to replace the difficulty and correct/incorrect emojis
+
+---
+
+## 📄 License
+This project is currently unlicensed.
