@@ -67,8 +67,8 @@ It’s meant to be **fun first**, but genuinely educational.
 - Continent-specific quizzes (e.g. Europe-only, Asia-only)
 
 ### New Quiz Types
-- 🗺️ **Map Quiz** – identify countries based on map highlights
-- 🇺🇸 **U.S. States Quiz**
+- **Map Quiz** – identify countries based on map highlights
+- **U.S. States Quiz**
 
 ### Dataset Expansion
 - Population
