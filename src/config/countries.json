@@ -1,0 +1,2516 @@
+[
+  {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "afghanistan.png",
+    "accepted": {
+      "country": ["afghanistan"],
+      "capital": ["kabul"],
+      "continent": ["asia"]
+    },
+    "similar": ["Malawi"]
+  },
+  {
+    "name": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "albania.png",
+    "accepted": {
+      "country": ["albania"],
+      "capital": ["tirana"],
+      "continent": ["europe"]
+    },
+    "similar": ["Switzerland"]
+  },
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "algeria.png",
+    "accepted": {
+      "country": ["algeria"],
+      "capital": ["algiers"],
+      "continent": ["africa"]
+    },
+    "similar": ["Pakistan", "Portugal"]
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "andorra.png",
+    "accepted": {
+      "country": ["andorra"],
+      "capital": ["andorra la vella"],
+      "continent": ["europe"]
+    },
+    "similar": ["Moldova"]
+  },
+  {
+    "name": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "angola.png",
+    "accepted": {
+      "country": ["angola"],
+      "capital": ["luanda"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "capital": "St. John's",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "antigua_and_barbuda.png",
+    "accepted": {
+      "country": ["antigua and barbuda"],
+      "capital": ["st johns"],
+      "continent": ["north america"]
+    },
+    "similar": ["Trinidad and Tobago", "Papua New Guinea"]
+  },
+  {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "difficulty": "easy",
+    "fileName": "argentina.png",
+    "accepted": {
+      "country": ["argentina"],
+      "capital": ["buenos aires"],
+      "continent": ["south america"]
+    },
+    "similar": ["Nicaragua"]
+  },
+  {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "armenia.png",
+    "accepted": {
+      "country": ["armenia"],
+      "capital": ["yerevan"],
+      "continent": ["asia"]
+    },
+    "similar": ["Mauritius", "Lithuania"]
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania / Australia",
+    "difficulty": "easy",
+    "fileName": "australia.png",
+    "accepted": {
+      "country": ["australia"],
+      "capital": ["canberra"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["New Zealand", "United Kingdom"]
+  },
+  {
+    "name": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "austria.png",
+    "accepted": {
+      "country": ["austria"],
+      "capital": ["vienna"],
+      "continent": ["europe"]
+    },
+    "similar": ["Peru", "Latvia", "Lebanon"]
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "continent": "Europe / Asia",
+    "difficulty": "hard",
+    "fileName": "azerbaijan.png",
+    "accepted": {
+      "country": ["azerbaijan"],
+      "capital": ["baku"],
+      "continent": ["europe", "asia"]
+    },
+    "similar": ["Namibia"]
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "bahamas.png",
+    "accepted": {
+      "country": ["bahamas"],
+      "capital": ["nassau"],
+      "continent": ["north america"]
+    },
+    "similar": ["Mozambique"]
+  },
+  {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "bahrain.png",
+    "accepted": {
+      "country": ["bahrain"],
+      "capital": ["manama"],
+      "continent": ["asia"]
+    },
+    "similar": ["Qatar"]
+  },
+  {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "bangladesh.png",
+    "accepted": {
+      "country": ["bangladesh"],
+      "capital": ["dhaka"],
+      "continent": ["asia"]
+    },
+    "similar": []
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "barbados.png",
+    "accepted": {
+      "country": ["barbados"],
+      "capital": ["bridgetown"],
+      "continent": ["north america"]
+    }
+  },
+  {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "belarus.png",
+    "accepted": {
+      "country": ["belarus"],
+      "capital": ["minsk"],
+      "continent": ["europe"]
+    },
+    "similar": ["Oman"]
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "belgium.png",
+    "accepted": {
+      "country": ["belgium"],
+      "capital": ["brussels"],
+      "continent": ["europe"]
+    },
+    "similar": ["Germany"]
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "belize.png",
+    "accepted": {
+      "country": ["belize"],
+      "capital": ["belmopan"],
+      "continent": ["north america"]
+    },
+    "similar": ["Laos", "Cambodia"]
+  },
+  {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "benin.png",
+    "accepted": {
+      "country": ["benin"],
+      "capital": ["porto novo"],
+      "continent": ["africa"]
+    },
+    "similar": ["Madagascar", "Congo", "Guinea-Bissau"]
+  },
+  {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "bhutan.png",
+    "accepted": {
+      "country": ["bhutan"],
+      "capital": ["thimphu"],
+      "continent": ["asia"]
+    },
+    "similar": ["Sri Lanka"]
+  },
+  {
+    "name": "Bolivia",
+    "capital": "Sucre / La Paz",
+    "continent": "South America",
+    "difficulty": "medium",
+    "fileName": "bolivia.png",
+    "accepted": {
+      "country": ["bolivia"],
+      "capital": ["sucre", "la paz"],
+      "continent": ["south america"]
+    },
+    "similar": ["Ghana"]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "bosnia_and_herzegovina.png",
+    "accepted": {
+      "country": ["bosnia and herzegovina", "bosnia herzegovina", "bosnia"],
+      "capital": ["sarajevo"],
+      "continent": ["europe"]
+    }
+  },
+  {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "botswana.png",
+    "accepted": {
+      "country": ["botswana"],
+      "capital": ["gaborone"],
+      "continent": ["africa"]
+    },
+    "similar": ["Estonia", "Argentina"]
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "difficulty": "easy",
+    "fileName": "brazil.png",
+    "accepted": {
+      "country": ["brazil"],
+      "capital": ["brasilia"],
+      "continent": ["south america"]
+    },
+    "similar": ["Bangladesh"]
+  },
+  {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "brunei.png",
+    "accepted": {
+      "country": ["brunei"],
+      "capital": ["bandar seri begawan"],
+      "continent": ["asia"]
+    },
+    "similar": ["Vatican City"]
+  },
+  {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "bulgaria.png",
+    "accepted": {
+      "country": ["bulgaria"],
+      "capital": ["sofia"],
+      "continent": ["europe"]
+    },
+    "similar": ["Hungary"]
+  },
+  {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "burkina_faso.png",
+    "accepted": {
+      "country": ["burkina faso"],
+      "capital": ["ouagadougou", "wagadugu"],
+      "continent": ["africa"]
+    },
+    "similar": ["Cameroon", "Ghana"]
+  },
+  {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "burundi.png",
+    "accepted": {
+      "country": ["burundi"],
+      "capital": ["gitega"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "cabo_verde.png",
+    "accepted": {
+      "country": ["cabo verde", "cape verde"],
+      "capital": ["praia"],
+      "continent": ["africa"]
+    },
+    "similar": ["Marshall Islands"]
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "cambodia.png",
+    "accepted": {
+      "country": ["cambodia"],
+      "capital": ["phnom penh"],
+      "continent": ["asia"]
+    },
+    "similar": ["Laos", "Belize"]
+  },
+  {
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "cameroon.png",
+    "accepted": {
+      "country": ["cameroon"],
+      "capital": ["yaounde"],
+      "continent": ["africa"]
+    },
+    "similar": ["Senegal", "Mali"]
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "difficulty": "easy",
+    "fileName": "canada.png",
+    "accepted": {
+      "country": ["canada"],
+      "capital": ["ottawa"],
+      "continent": ["north america"]
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "central_african_republic.png",
+    "accepted": {
+      "country": ["central african republic", "car"],
+      "capital": ["bangui"],
+      "continent": ["africa"]
+    },
+    "similar": ["Comoros"]
+  },
+  {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "chad.png",
+    "accepted": {
+      "country": ["chad"],
+      "capital": ["ndjamena"],
+      "continent": ["africa"]
+    },
+    "similar": ["Romania"]
+  },
+  {
+    "name": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "difficulty": "easy",
+    "fileName": "chile.png",
+    "accepted": {
+      "country": ["chile"],
+      "capital": ["santiago"],
+      "continent": ["south america"]
+    },
+    "similar": ["Poland", "Panama"]
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "difficulty": "easy",
+    "fileName": "china.png",
+    "accepted": {
+      "country": ["china"],
+      "capital": ["beijing"],
+      "continent": ["asia"]
+    },
+    "similar": ["Vietnam"]
+  },
+  {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "difficulty": "medium",
+    "fileName": "colombia.png",
+    "accepted": {
+      "country": ["colombia"],
+      "capital": ["bogota"],
+      "continent": ["south america"]
+    },
+    "similar": ["Venezuela", "Ecuador"]
+  },
+  {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "comoros.png",
+    "accepted": {
+      "country": ["comoros"],
+      "capital": ["moroni"],
+      "continent": ["africa"]
+    },
+    "similar": ["Central African Republic"]
+  },
+  {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "congo.png",
+    "accepted": {
+      "country": ["republic of the congo", "congo"],
+      "capital": ["brazzaville"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "costa_rica.png",
+    "accepted": {
+      "country": ["costa rica"],
+      "capital": ["san jose"],
+      "continent": ["north america"]
+    },
+    "similar": ["Thailand"]
+  },
+  {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "croatia.png",
+    "accepted": {
+      "country": ["croatia"],
+      "capital": ["zagreb"],
+      "continent": ["europe"]
+    },
+    "similar": ["Serbia", "Netherlands"]
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "cuba.png",
+    "accepted": {
+      "country": ["cuba"],
+      "capital": ["havana"],
+      "continent": ["north america"]
+    },
+    "similar": ["Philippines", "Costa Rica"]
+  },
+  {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "cyprus.png",
+    "accepted": {
+      "country": ["cyprus"],
+      "capital": ["nicosia", "lefkosia", "lefkosa"],
+      "continent": ["europe"]
+    }
+  },
+  {
+    "name": "Czechia",
+    "capital": "Prague",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "czechia.png",
+    "accepted": {
+      "country": ["czechia", "czech republic"],
+      "capital": ["prague"],
+      "continent": ["europe"]
+    },
+    "similar": ["Philippines"]
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "democratic_republic_of_the_congo.png",
+    "accepted": {
+      "country": [
+        "democratic republic of the congo",
+        "dr congo",
+        "congo kinshasa"
+      ],
+      "capital": ["kinshasa"],
+      "continent": ["africa"]
+    },
+    "similar": ["Namibia"]
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "denmark.png",
+    "accepted": {
+      "country": ["denmark"],
+      "capital": ["copenhagen"],
+      "continent": ["europe"]
+    },
+    "similar": ["Norway", "Iceland", "Switzerland"]
+  },
+  {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "djibouti.png",
+    "accepted": {
+      "country": ["djibouti"],
+      "capital": ["djibouti city", "djibouti"],
+      "continent": ["africa"]
+    },
+    "similar": ["Uzbekistan"]
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "dominica.png",
+    "accepted": {
+      "country": ["dominica"],
+      "capital": ["roseau"],
+      "continent": ["north america"]
+    },
+    "similar": ["Bangladesh"]
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "dominican_republic.png",
+    "accepted": {
+      "country": ["dominican republic"],
+      "capital": ["santo domingo"],
+      "continent": ["north america"]
+    },
+    "similar": ["Panama"]
+  },
+  {
+    "name": "East Timor",
+    "capital": "Dili",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "east_timor.png",
+    "accepted": {
+      "country": ["east timor", "timor leste"],
+      "capital": ["dili"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Papua New Guinea", "Angola"]
+  },
+  {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "ecuador.png",
+    "accepted": {
+      "country": ["ecuador"],
+      "capital": ["quito"],
+      "continent": ["south america"]
+    },
+    "similar": ["Colombia", "Venezuela"]
+  },
+  {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "difficulty": "easy",
+    "fileName": "egypt.png",
+    "accepted": {
+      "country": ["egypt"],
+      "capital": ["cairo"],
+      "continent": ["africa"]
+    },
+    "similar": ["Yemen"]
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "el_salvador.png",
+    "accepted": {
+      "country": ["el salvador"],
+      "capital": ["san salvador"],
+      "continent": ["north america"]
+    },
+    "similar": ["Nicaragua"]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "equatorial_guinea.png",
+    "accepted": {
+      "country": ["equatorial guinea"],
+      "capital": ["malabo"],
+      "continent": ["africa"]
+    },
+    "similar": ["Iran"]
+  },
+  {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "eritrea.png",
+    "accepted": {
+      "country": ["eritrea"],
+      "capital": ["asmara"],
+      "continent": ["africa"]
+    },
+    "similar": ["Guyana"]
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "estonia.png",
+    "accepted": {
+      "country": ["estonia"],
+      "capital": ["tallinn"],
+      "continent": ["europe"]
+    },
+    "similar": ["Botswana"]
+  },
+  {
+    "name": "Eswatini",
+    "capital": "Mbanane / Lobamba",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "eswatini.png",
+    "accepted": {
+      "country": ["eswatini", "swaziland"],
+      "capital": ["mbabane", "lobamba"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "ethiopia.png",
+    "accepted": {
+      "country": ["ethiopia"],
+      "capital": ["addis ababa"],
+      "continent": ["africa"]
+    },
+    "similar": ["Ghana"]
+  },
+  {
+    "name": "Fiji",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "fiji.png",
+    "accepted": {
+      "country": ["fiji"],
+      "capital": ["suva"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Tuvalu"]
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "finland.png",
+    "accepted": {
+      "country": ["finland"],
+      "capital": ["helsinki"],
+      "continent": ["europe"]
+    },
+    "similar": ["Iceland", "Norway"]
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "france.png",
+    "accepted": {
+      "country": ["france"],
+      "capital": ["paris"],
+      "continent": ["europe"]
+    },
+    "similar": ["Netherlands"]
+  },
+  {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "gabon.png",
+    "accepted": {
+      "country": ["gabon"],
+      "capital": ["libreville"],
+      "continent": ["africa"]
+    },
+    "similar": ["Siera Leone"]
+  },
+  {
+    "name": "The Gambia",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "gambia.png",
+    "accepted": {
+      "country": ["the gambia", "gambia"],
+      "capital": ["banjul"],
+      "continent": ["africa"]
+    },
+    "similar": ["Namibia"]
+  },
+  {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "georgia.png",
+    "accepted": {
+      "country": ["georgia"],
+      "capital": ["tbilisi"],
+      "continent": ["asia"]
+    },
+    "similar": ["Malta", "Tonga"]
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "germany.png",
+    "accepted": {
+      "country": ["germany"],
+      "capital": ["berlin"],
+      "continent": ["europe"]
+    },
+    "similar": ["Belgium"]
+  },
+  {
+    "name": "Ghana",
+    "capital": "Accra",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "ghana.png",
+    "accepted": {
+      "country": ["ghana"],
+      "capital": ["accra"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "greece.png",
+    "accepted": {
+      "country": ["greece"],
+      "capital": ["athens"],
+      "continent": ["europe"]
+    },
+    "similar": ["Uruguay"]
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "grenada.png",
+    "accepted": {
+      "country": ["grenada"],
+      "capital": ["st georges"],
+      "continent": ["north america"]
+    }
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "guatemala.png",
+    "accepted": {
+      "country": ["guatemala"],
+      "capital": ["guatemala city"],
+      "continent": ["north america"]
+    },
+    "similar": ["Argentina"]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "guinea-bissau.png",
+    "accepted": {
+      "country": ["guinea bissau"],
+      "capital": ["bissau"],
+      "continent": ["africa"]
+    },
+    "similar": ["Guinea", "Benin", "Ghana"]
+  },
+  {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "guinea.png",
+    "accepted": {
+      "country": ["guinea"],
+      "capital": ["conakry"],
+      "continent": ["africa"]
+    },
+    "similar": ["Mali", "Senegal"]
+  },
+  {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "guyana.png",
+    "accepted": {
+      "country": ["guyana"],
+      "capital": ["georgetown"],
+      "continent": ["south america"]
+    },
+    "similar": ["Eritrea", "Guinea"]
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "haiti.png",
+    "accepted": {
+      "country": ["haiti"],
+      "capital": ["port au prince"],
+      "continent": ["north america"]
+    },
+    "similar": ["Liechtenstein"]
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "honduras.png",
+    "accepted": {
+      "country": ["honduras"],
+      "capital": ["tegucigalpa"],
+      "continent": ["north america"]
+    },
+    "similar": ["El Salvador"]
+  },
+  {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "hungary.png",
+    "accepted": {
+      "country": ["hungary"],
+      "capital": ["budapest"],
+      "continent": ["europe"]
+    }
+  },
+  {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "iceland.png",
+    "accepted": {
+      "country": ["iceland"],
+      "capital": ["reykjavik"],
+      "continent": ["europe"]
+    },
+    "similar": ["Norway", "Finland", "Denmark", "Sweden"]
+  },
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "difficulty": "easy",
+    "fileName": "india.png",
+    "accepted": {
+      "country": ["india"],
+      "capital": ["new delhi"],
+      "continent": ["asia"]
+    },
+    "similar": ["Niger"]
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "indonesia.png",
+    "accepted": {
+      "country": ["indonesia"],
+      "capital": ["jakarta"],
+      "continent": ["asia"]
+    },
+    "similar": ["Monaco", "Poland"]
+  },
+  {
+    "name": "Iran",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "iran.png",
+    "accepted": {
+      "country": ["iran", "persia"],
+      "capital": ["tehran"],
+      "continent": ["asia"]
+    },
+    "similar": ["Tajikistan"]
+  },
+  {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "iraq.png",
+    "accepted": {
+      "country": ["iraq"],
+      "capital": ["baghdad"],
+      "continent": ["asia"]
+    },
+    "similar": ["Syria", "Yemen"]
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "ireland.png",
+    "accepted": {
+      "country": ["ireland"],
+      "capital": ["dublin"],
+      "continent": ["europe"]
+    },
+    "similar": ["Ivory Coast"]
+  },
+  {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "difficulty": "easy",
+    "fileName": "israel.png",
+    "accepted": {
+      "country": ["israel", "isnotrael"],
+      "capital": ["jerusalem"],
+      "continent": ["asia"]
+    },
+    "similar": ["Honduras"]
+  },
+  {
+    "name": "Italy",
+    "capital": "Rome",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "italy.png",
+    "accepted": {
+      "country": ["italy"],
+      "capital": ["rome"],
+      "continent": ["europe"]
+    },
+    "similar": ["Mexico"]
+  },
+  {
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "ivory_coast.png",
+    "accepted": {
+      "country": ["ivory coast", "cote divoire"],
+      "capital": ["yamoussoukro"],
+      "continent": ["africa"]
+    },
+    "similar": ["Ireland"]
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "difficulty": "easy",
+    "fileName": "jamaica.png",
+    "accepted": {
+      "country": ["jamaica"],
+      "capital": ["kingston"],
+      "continent": ["north america"]
+    },
+    "continent": "North America"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "difficulty": "easy",
+    "fileName": "japan.png",
+    "accepted": {
+      "country": ["japan"],
+      "capital": ["tokyo"],
+      "continent": ["asia"]
+    },
+    "similar": ["South Korea"]
+  },
+  {
+    "name": "Jordan",
+    "capital": "Amman",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "jordan.png",
+    "accepted": {
+      "country": ["jordan"],
+      "capital": ["amman"],
+      "continent": ["asia"]
+    },
+    "similar": ["Palestine"]
+  },
+  {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "kazakhstan.png",
+    "accepted": {
+      "country": ["kazakhstan"],
+      "capital": ["astana"],
+      "continent": ["asia"]
+    },
+    "similar": ["Palau"]
+  },
+  {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "kenya.png",
+    "accepted": {
+      "country": ["kenya"],
+      "capital": ["nairobi"],
+      "continent": ["africa"]
+    },
+    "similar": ["Malawi"]
+  },
+  {
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "kiribati.png",
+    "accepted": {
+      "country": ["kiribati"],
+      "capital": ["tarawa"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Kyrgyzstan"]
+  },
+  {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "kuwait.png",
+    "accepted": {
+      "country": ["kuwait"],
+      "capital": ["kuwait city"],
+      "continent": ["asia"]
+    },
+    "similar": ["United Arab Emirates"]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "kyrgyzstan.png",
+    "accepted": {
+      "country": ["kyrgyzstan"],
+      "capital": ["bishkek"],
+      "continent": ["asia"]
+    },
+    "similar": [""]
+  },
+  {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "laos.png",
+    "accepted": {
+      "country": ["laos"],
+      "capital": ["vientiane"],
+      "continent": ["asia"]
+    }
+  },
+  {
+    "name": "Latvia",
+    "capital": "Riga",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "latvia.png",
+    "accepted": {
+      "country": ["latvia"],
+      "capital": ["riga"],
+      "continent": ["europe"]
+    },
+    "similar": ["Austria"]
+  },
+  {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "lebanon.png",
+    "accepted": {
+      "country": ["lebanon"],
+      "capital": ["beirut"],
+      "continent": ["asia"]
+    },
+    "similar": ["Austria"]
+  },
+  {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "lesotho.png",
+    "accepted": {
+      "country": ["lesotho"],
+      "capital": ["maseru"],
+      "continent": ["africa"]
+    },
+    "similar": ["Uzbekistan"]
+  },
+  {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "liberia.png",
+    "accepted": {
+      "country": ["liberia"],
+      "capital": ["monrovia"],
+      "continent": ["africa"]
+    },
+    "similar": ["Malaysia"]
+  },
+  {
+    "name": "Libya",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "libya.png",
+    "accepted": {
+      "country": ["libya"],
+      "capital": ["tripoli"],
+      "continent": ["africa"]
+    },
+    "similar": ["Kenya"]
+  },
+  {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "liechtenstein.png",
+    "accepted": {
+      "country": ["liechtenstein"],
+      "capital": ["vaduz"],
+      "continent": ["europe"]
+    },
+    "similar": ["Haiti"]
+  },
+  {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "lithuania.png",
+    "accepted": {
+      "country": ["lithuania"],
+      "capital": ["vilnius"],
+      "continent": ["europe"]
+    },
+    "similar": ["Armenia", "Bulgaria"]
+  },
+  {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "luxembourg.png",
+    "accepted": {
+      "country": ["luxembourg"],
+      "capital": ["luxembourg", "luxembourg city"],
+      "continent": ["europe"]
+    },
+    "similar": ["Netherlands"]
+  },
+  {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "madagascar.png",
+    "accepted": {
+      "country": ["madagascar"],
+      "capital": ["antananarivo", "tana"],
+      "continent": ["africa"]
+    },
+    "similar": ["Benin", "Belarus"]
+  },
+  {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "malawi.png",
+    "accepted": {
+      "country": ["malawi"],
+      "capital": ["lilongwe"],
+      "continent": ["africa"]
+    },
+    "similar": ["Kenya"]
+  },
+  {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "malaysia.png",
+    "accepted": {
+      "country": ["malaysia"],
+      "capital": ["kuala lumpur"],
+      "continent": ["asia"]
+    },
+    "similar": ["Liberia"]
+  },
+  {
+    "name": "Maldives",
+    "capital": "Malé",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "maldives.png",
+    "accepted": {
+      "country": ["maldives"],
+      "capital": ["male"],
+      "continent": ["asia"]
+    },
+    "similar": ["Mauritania"]
+  },
+  {
+    "name": "Mali",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "mali.png",
+    "accepted": {
+      "country": ["mali"],
+      "capital": ["bamako"],
+      "continent": ["africa"]
+    },
+    "similar": ["Senegal", "Guinea"]
+  },
+  {
+    "name": "Malta",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "malta.png",
+    "accepted": {
+      "country": ["malta"],
+      "capital": ["valletta"],
+      "continent": ["europe"]
+    },
+    "similar": ["Tonga"]
+  },
+  {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "marshall_islands.png",
+    "accepted": {
+      "country": ["marshall islands"],
+      "capital": ["majuro"],
+      "continent": ["oceania", "australia"]
+    }
+  },
+  {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "mauritania.png",
+    "accepted": {
+      "country": ["mauritania"],
+      "capital": ["nouakchott"],
+      "continent": ["africa"]
+    },
+    "similar": ["Mauritius", "Maldives", "Armenia"]
+  },
+  {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "mauritius.png",
+    "accepted": {
+      "country": ["mauritius"],
+      "capital": ["port louis"],
+      "continent": ["africa"]
+    },
+    "similar": ["Mauritania"]
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "difficulty": "easy",
+    "fileName": "mexico.png",
+    "accepted": {
+      "country": ["mexico"],
+      "capital": ["mexico city"],
+      "continent": ["north america"]
+    },
+    "similar": ["Italy"]
+  },
+  {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "micronesia.png",
+    "accepted": {
+      "country": ["micronesia"],
+      "capital": ["palikir"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Somalia"]
+  },
+  {
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "moldova.png",
+    "accepted": {
+      "country": ["moldova"],
+      "capital": ["chisinau"],
+      "continent": ["europe"]
+    },
+    "similar": ["Andorra"]
+  },
+  {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "monaco.png",
+    "accepted": {
+      "country": ["monaco"],
+      "capital": ["monaco"],
+      "continent": ["europe"]
+    },
+    "similar": ["Indonesia", "Poland"]
+  },
+  {
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "mongolia.png",
+    "accepted": {
+      "country": ["mongolia"],
+      "capital": ["ulaanbaatar"],
+      "continent": ["asia"]
+    },
+    "similar": ["Laos", "Belize"]
+  },
+  {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "montenegro.png",
+    "accepted": {
+      "country": ["montenegro"],
+      "capital": ["podgorica"],
+      "continent": ["europe"]
+    },
+    "similar": ["Albania"]
+  },
+  {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "morocco.png",
+    "accepted": {
+      "country": ["morocco"],
+      "capital": ["rabat"],
+      "continent": ["africa"]
+    },
+    "similar": ["Vietnam"]
+  },
+  {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "mozambique.png",
+    "accepted": {
+      "country": ["mozambique"],
+      "capital": ["maputo"],
+      "continent": ["africa"]
+    },
+    "similar": ["São Tomé and Príncipe"]
+  },
+  {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "myanmar.png",
+    "accepted": {
+      "country": ["myanmar", "burma"],
+      "capital": ["naypyidaw"],
+      "continent": ["asia"]
+    },
+    "similar": ["Ghana", "Senegal"]
+  },
+  {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "namibia.png",
+    "accepted": {
+      "country": ["namibia"],
+      "capital": ["windhoek"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "nauru.png",
+    "accepted": {
+      "country": ["nauru"],
+      "capital": ["yaren"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Marshall Islands", ""]
+  },
+  {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "nepal.png",
+    "accepted": {
+      "country": ["nepal"],
+      "capital": ["kathmandu"],
+      "continent": ["asia"]
+    }
+  },
+  {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "netherlands.png",
+    "accepted": {
+      "country": ["netherlands"],
+      "capital": ["amsterdam"],
+      "continent": ["europe"]
+    },
+    "similar": ["Luxembourg", "Paraguay"]
+  },
+  {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "difficulty": "medium",
+    "fileName": "new_zealand.png",
+    "accepted": {
+      "country": ["new zealand"],
+      "capital": ["wellington"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Australia"]
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "nicaragua.png",
+    "accepted": {
+      "country": ["nicaragua"],
+      "capital": ["managua"],
+      "continent": ["north america"]
+    },
+    "similar": ["El Salvador"]
+  },
+  {
+    "name": "Niger",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "niger.png",
+    "accepted": {
+      "country": ["niger"],
+      "capital": ["niamey"],
+      "continent": ["africa"]
+    },
+    "similar": ["India", "Nigeria"]
+  },
+  {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "nigeria.png",
+    "accepted": {
+      "country": ["nigeria"],
+      "capital": ["abuja"],
+      "continent": ["africa"]
+    },
+    "similar": ["Niger"]
+  },
+  {
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "north_korea.png",
+    "accepted": {
+      "country": ["north korea"],
+      "capital": ["pyongyang"],
+      "continent": ["asia"]
+    },
+    "similar": ["Costa Rica"]
+  },
+  {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "north_macedonia.png",
+    "accepted": {
+      "country": ["north macedonia"],
+      "capital": ["skopje"],
+      "continent": ["europe"]
+    },
+    "similar": ["Kyrgyzstan"]
+  },
+  {
+    "name": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "norway.png",
+    "accepted": {
+      "country": ["norway"],
+      "capital": ["oslo"],
+      "continent": ["europe"]
+    },
+    "similar": ["Iceland", "Finland", "Denmark", "Sweden"]
+  },
+  {
+    "name": "Oman",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "oman.png",
+    "accepted": {
+      "country": ["oman"],
+      "capital": ["muscat"],
+      "continent": ["asia"]
+    },
+    "similar": ["Belarus"]
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "pakistan.png",
+    "accepted": {
+      "country": ["pakistan"],
+      "capital": ["islamabad"],
+      "continent": ["asia"]
+    },
+    "similar": ["Algeria", "Turkey"]
+  },
+  {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "palau.png",
+    "accepted": {
+      "country": ["palau"],
+      "capital": ["ngerulmud"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Kazakhstan"]
+  },
+  {
+    "name": "Palestine",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "palestine.png",
+    "accepted": {
+      "country": ["palestine"],
+      "capital": ["jerusalem", "gaza"],
+      "continent": ["asia"]
+    },
+    "similar": ["Jordan"]
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "panama.png",
+    "accepted": {
+      "country": ["panama"],
+      "capital": ["panama city"],
+      "continent": ["north america"]
+    },
+    "similar": ["Dominican Republic"]
+  },
+  {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "papua_new_guinea.png",
+    "accepted": {
+      "country": ["papua new guinea"],
+      "capital": ["port moresby", "pom city", "moresby"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Angola"]
+  },
+  {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "paraguay.png",
+    "accepted": {
+      "country": ["paraguay"],
+      "capital": ["asuncion"],
+      "continent": ["south america"]
+    },
+    "similar": ["Netherlands", "Croatia"]
+  },
+  {
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "difficulty": "medium",
+    "fileName": "peru.png",
+    "accepted": {
+      "country": ["peru"],
+      "capital": ["lima"],
+      "continent": ["south america"]
+    }
+  },
+  {
+    "name": "Philippines",
+    "capital": "Manila",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "philippines.png",
+    "accepted": {
+      "country": ["philippines"],
+      "capital": ["manila"],
+      "continent": ["asia"]
+    },
+    "similar": ["Czechia"]
+  },
+  {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "poland.png",
+    "accepted": {
+      "country": ["poland"],
+      "capital": ["warsaw"],
+      "continent": ["europe"]
+    },
+    "similar": ["Indonesia", "Monaco"]
+  },
+  {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "portugal.png",
+    "accepted": {
+      "country": ["portugal"],
+      "capital": ["lisbon"],
+      "continent": ["europe"]
+    }
+  },
+  {
+    "name": "Qatar",
+    "capital": "Doha",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "qatar.png",
+    "accepted": {
+      "country": ["qatar"],
+      "capital": ["doha"],
+      "continent": ["asia"]
+    },
+    "similar": ["Bahrain"]
+  },
+  {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "romania.png",
+    "accepted": {
+      "country": ["romania"],
+      "capital": ["bucharest"],
+      "continent": ["europe"]
+    },
+    "similar": ["Chad"]
+  },
+  {
+    "name": "Russia",
+    "capital": "Moscow",
+    "continent": "Europe / Asia",
+    "difficulty": "easy",
+    "fileName": "russia.png",
+    "accepted": {
+      "country": ["russia"],
+      "capital": ["moscow"],
+      "continent": ["europe", "asia"]
+    },
+    "similar": ["Slovenia", "Slovakia"]
+  },
+  {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "rwanda.png",
+    "accepted": {
+      "country": ["rwanda"],
+      "capital": ["kigali"],
+      "continent": ["africa"]
+    },
+    "similar": ["Ukraine", "Sweden"]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "saint_kitts_and_nevis.png",
+    "accepted": {
+      "country": ["saint kitts and nevis"],
+      "capital": ["basseterre"],
+      "continent": ["north america"]
+    },
+    "similar": ["Saint Vincent and the Grenadines", "Guinea", "Tanzania"]
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "saint_lucia.png",
+    "accepted": {
+      "country": ["saint lucia"],
+      "capital": ["castries"],
+      "continent": ["north america"]
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "difficulty": "hard",
+    "fileName": "saint_vincent_and_the_grenadines.png",
+    "accepted": {
+      "country": ["saint vincent and the grenadines", "saint vincent", "svg"],
+      "capital": ["kingstown"],
+      "continent": ["north america"]
+    },
+    "similar": ["Saint Kitts and Nevis"]
+  },
+  {
+    "name": "Samoa",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "samoa.png",
+    "accepted": {
+      "country": ["samoa"],
+      "capital": ["apia"],
+      "continent": ["oceania", "australia"]
+    }
+  },
+  {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "san_marino.png",
+    "accepted": {
+      "country": ["san marino"],
+      "capital": ["san marino", "citta"],
+      "continent": ["europe"]
+    },
+    "similar": ["Argentina"]
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "sao_tome_and_principe.png",
+    "accepted": {
+      "country": ["sao tome and principe"],
+      "capital": ["sao tome"],
+      "continent": ["africa"]
+    },
+    "similar": ["Mozambique"]
+  },
+  {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "saudi_arabia.png",
+    "accepted": {
+      "country": ["saudi arabia"],
+      "capital": ["riyadh"],
+      "continent": ["asia"]
+    },
+    "similar": ["Turkmenistan"]
+  },
+  {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "senegal.png",
+    "accepted": {
+      "country": ["senegal"],
+      "capital": ["dakar"],
+      "continent": ["africa"]
+    },
+    "similar": ["Mali", "Guinea"]
+  },
+  {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "serbia.png",
+    "accepted": {
+      "country": ["serbia"],
+      "capital": ["belgrade"],
+      "continent": ["europe"]
+    },
+    "similar": ["Croatia"]
+  },
+  {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "seychelles.png",
+    "accepted": {
+      "country": ["seychelles"],
+      "capital": ["victoria"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "sierra_leone.png",
+    "accepted": {
+      "country": ["sierra leone"],
+      "capital": ["freetown"],
+      "continent": ["africa"]
+    },
+    "similar": ["Gabon"]
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "singapore.png",
+    "accepted": {
+      "country": ["singapore"],
+      "capital": ["singapore"],
+      "continent": ["asia"]
+    },
+    "similar": ["Indonesia"]
+  },
+  {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "slovakia.png",
+    "accepted": {
+      "country": ["slovakia"],
+      "capital": ["bratislava"],
+      "continent": ["europe"]
+    },
+    "similar": ["Slovenia"]
+  },
+  {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "slovenia.png",
+    "accepted": {
+      "country": ["slovenia"],
+      "capital": ["ljubljana"],
+      "continent": ["europe"]
+    },
+    "similar": ["Slovakia"]
+  },
+  {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "solomon_islands.png",
+    "accepted": {
+      "country": ["solomon islands", "the solomons", "solomons"],
+      "capital": ["honiara"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Marshall Islands", "Namibia"]
+  },
+  {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "somalia.png",
+    "accepted": {
+      "country": ["somalia"],
+      "capital": ["mogadishu", "xamar", "hamar"],
+      "continent": ["africa"]
+    },
+    "similar": ["Micronesia"]
+  },
+  {
+    "name": "South Africa",
+    "capital": "Pretoria / Cape Town / Bloemfontein",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "south_africa.png",
+    "accepted": {
+      "country": ["south africa"],
+      "capital": ["pretoria", "cape town", "bloemfontein"],
+      "continent": ["africa"]
+    },
+    "similar": ["Vanuatu"]
+  },
+  {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "difficulty": "easy",
+    "fileName": "south_korea.png",
+    "accepted": {
+      "country": ["south korea"],
+      "capital": ["seoul"],
+      "continent": ["asia"]
+    }
+  },
+  {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "south_sudan.png",
+    "accepted": {
+      "country": ["south sudan"],
+      "capital": ["juba"],
+      "continent": ["africa"]
+    }
+  },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "spain.png",
+    "accepted": {
+      "country": ["spain"],
+      "capital": ["madrid"],
+      "continent": ["europe"]
+    },
+    "similar": ["Ghana"]
+  },
+  {
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte / Colombo",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "sri_lanka.png",
+    "accepted": {
+      "country": ["sri lanka"],
+      "capital": ["sri jayawardenepura kotte", "kotte", "colombo"],
+      "continent": ["asia"]
+    },
+    "similar": ["Bhutan"]
+  },
+  {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "sudan.png",
+    "accepted": {
+      "country": ["sudan"],
+      "capital": ["khartoum", "khartum"],
+      "continent": ["africa"]
+    },
+    "similar": ["Palestine", "Jordan"]
+  },
+  {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "suriname.png",
+    "accepted": {
+      "country": ["suriname"],
+      "capital": ["paramaribo"],
+      "continent": ["south america"]
+    }
+  },
+  {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "sweden.png",
+    "accepted": {
+      "country": ["sweden"],
+      "capital": ["stockholm"],
+      "continent": ["europe"]
+    },
+    "similar": ["Finland", "Ukraine"]
+  },
+  {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "switzerland.png",
+    "accepted": {
+      "country": ["switzerland"],
+      "capital": ["bern", "berne"],
+      "continent": ["europe"]
+    }
+  },
+  {
+    "name": "Syria",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "syria.png",
+    "accepted": {
+      "country": ["syria"],
+      "capital": ["damascus"],
+      "continent": ["asia"]
+    },
+    "similar": ["Iraq", "Yemen"]
+  },
+  {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "tajikistan.png",
+    "accepted": {
+      "country": ["tajikistan"],
+      "capital": ["dushanbe"],
+      "continent": ["asia"]
+    },
+    "similar": ["Iran", "Hungary"]
+  },
+  {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "tanzania.png",
+    "accepted": {
+      "country": ["tanzania"],
+      "capital": ["dodoma city", "dodoma"],
+      "continent": ["africa"]
+    },
+    "similar": ["Saint Kitts and Nevis"]
+  },
+  {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "thailand.png",
+    "accepted": {
+      "country": ["thailand", "siam"],
+      "capital": ["bangkok", "krung thep maha nakhon", "krung thep"],
+      "continent": ["asia"]
+    },
+    "similar": ["Costa Rica"]
+  },
+  {
+    "name": "Togo",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "togo.png",
+    "accepted": {
+      "country": ["togo"],
+      "capital": ["lome"],
+      "continent": ["africa"]
+    },
+    "similar": ["Zimbabwe"]
+  },
+  {
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "tonga.png",
+    "accepted": {
+      "country": ["tonga"],
+      "capital": ["nukualofa"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Malta", "Tunisia"]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "difficulty": "medium",
+    "fileName": "trinidad_and_tobago.png",
+    "accepted": {
+      "country": ["trinidad and tobago"],
+      "capital": ["port of spain"],
+      "continent": ["north america"]
+    },
+    "similar": ["Saint Kitts and Nevis"]
+  },
+  {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "difficulty": "medium",
+    "fileName": "tunisia.png",
+    "accepted": {
+      "country": ["tunisia"],
+      "capital": ["tunis"],
+      "continent": ["africa"]
+    },
+    "similar": ["Turkey"]
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "continent": "Europe / Asia",
+    "difficulty": "easy",
+    "fileName": "turkey.png",
+    "accepted": {
+      "country": ["turkey", "turkiye"],
+      "capital": ["ankara"],
+      "continent": ["europe", "asia"]
+    },
+    "similar": ["Tunisia"]
+  },
+  {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "turkmenistan.png",
+    "accepted": {
+      "country": ["turkmenistan"],
+      "capital": ["ashgabat"],
+      "continent": ["asia"]
+    },
+    "similar": ["Pakistan", "Saudi Arabia"]
+  },
+  {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "tuvalu.png",
+    "accepted": {
+      "country": ["tuvalu"],
+      "capital": ["funafuti"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["Fiji"]
+  },
+  {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "uganda.png",
+    "accepted": {
+      "country": ["uganda"],
+      "capital": ["kampala"],
+      "continent": ["africa"]
+    },
+    "similar": ["Zimbabwe"]
+  },
+  {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "fileName": "ukraine.png",
+    "accepted": {
+      "country": ["ukraine"],
+      "capital": ["kyiv", "kiev"],
+      "continent": ["europe"]
+    },
+    "similar": ["Sweden"]
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "united_arab_emirates.png",
+    "accepted": {
+      "country": ["united arab emirates", "uae", "the emirates", "emirates"],
+      "capital": ["abu dhabi"],
+      "continent": ["asia"]
+    },
+    "similar": ["Kuwait", "Palestine"]
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "difficulty": "easy",
+    "fileName": "united_kingdom.png",
+    "accepted": {
+      "country": ["united kingdom", "uk"],
+      "capital": ["london"],
+      "continent": ["europe"]
+    },
+    "similar": ["Australia"]
+  },
+  {
+    "name": "United States of America",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "difficulty": "easy",
+    "fileName": "usa.png",
+    "accepted": {
+      "country": ["united states of america", "united states", "usa", "us"],
+      "capital": ["washington dc"],
+      "continent": ["north america"]
+    },
+    "similar": ["Liberia"]
+  },
+  {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "uruguay.png",
+    "accepted": {
+      "country": ["uruguay"],
+      "capital": ["montevideo"],
+      "continent": ["south america"]
+    },
+    "similar": ["Greece"]
+  },
+  {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "uzbekistan.png",
+    "accepted": {
+      "country": ["uzbekistan"],
+      "capital": ["tashkent", "toshkent"],
+      "continent": ["asia"]
+    },
+    "similar": ["Azerbaijan", "Lesotho"]
+  },
+  {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "difficulty": "hard",
+    "fileName": "vanuatu.png",
+    "accepted": {
+      "country": ["vanuatu"],
+      "capital": ["port vila", "vila"],
+      "continent": ["oceania", "australia"]
+    },
+    "similar": ["South Africa"]
+  },
+  {
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "difficulty": "hard",
+    "fileName": "vatican_city.png",
+    "accepted": {
+      "country": ["vatican city", "the vatican", "vatican", "holy see"],
+      "capital": ["vatican city", "the vatican", "vatican", "holy see"],
+      "continent": ["europe"]
+    },
+    "similar": ["Brunei"]
+  },
+  {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "difficulty": "hard",
+    "fileName": "venezuela.png",
+    "accepted": {
+      "country": ["venezuela"],
+      "capital": ["caracas"],
+      "continent": ["south america"]
+    },
+    "similar": ["Colombia", "Ecuador"]
+  },
+  {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "fileName": "vietnam.png",
+    "accepted": {
+      "country": ["vietnam"],
+      "capital": ["hanoi"],
+      "continent": ["asia"]
+    },
+    "similar": ["China", "Morocco"]
+  },
+  {
+    "name": "Yemen",
+    "capital": "Sanaa",
+    "continent": "Asia",
+    "difficulty": "hard",
+    "fileName": "yemen.png",
+    "accepted": {
+      "country": ["yemen"],
+      "capital": ["sanaa"],
+      "continent": ["asia"]
+    },
+    "similar": ["Egypt"]
+  },
+  {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "zambia.png",
+    "accepted": {
+      "country": ["zambia"],
+      "capital": ["lusaka"],
+      "continent": ["africa"]
+    },
+    "similar": ["Turkmenistan"]
+  },
+  {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "Africa",
+    "difficulty": "hard",
+    "fileName": "zimbabwe.png",
+    "accepted": {
+      "country": ["zimbabwe"],
+      "capital": ["harare", "salisbury"],
+      "continent": ["africa"]
+    },
+    "similar": ["Uganda"]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "online": "<:online:1449672049286058067>",
+  "offline": ":offline:1449672047692353597>",
+  "idle": "<:idle:1449672046500909056>",
+  "dnd": "<:dnd:1449672045469110352>",
+  "easy": "<:easy:1449671972777889882>",
+  "medium": "<:medium:1449671976162427002>",
+  "hard": "<:hard:1449671975055134873>",
+  "expert": "<:expert:1449671973914284103>",
+  "worldwide": "<:worldwide:948443470404665354>",
+  "agree": "<:agree:1449672041270607902>",
+  "disagree": "<:disagree:1449672043397124208>",
+  "flags": {
+    "brazil": ":flag_br:",
+    "europe": ":flag_eu:",
+    "hongkong": ":flag_hk:",
+    "india": ":flag_in:",
+    "japan": ":flag_jp:",
+    "russia": ":flag_ru:",
+    "singapore": ":flag_sg:",
+    "southafrica": ":flag_za:",
+    "sydney": ":flag_au:",
+    "uscentral": ":flag_us:",
+    "useast": ":flag_us:",
+    "ussouth": ":flag_us:",
+    "uswest": ":flag_us:"
+  }
+}
